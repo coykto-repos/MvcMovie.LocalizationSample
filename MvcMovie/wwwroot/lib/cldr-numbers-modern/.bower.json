@@ -1,0 +1,22 @@
+{
+  "name": "cldr-numbers-modern",
+  "version": "31.0.1",
+  "dependencies": {
+    "cldr-core": "31.0.1"
+  },
+  "main": "main/**/*.json",
+  "ignore": [
+    ".gitattributes",
+    "README.md"
+  ],
+  "homepage": "https://github.com/unicode-cldr/cldr-numbers-modern",
+  "_release": "31.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "31.0.1",
+    "commit": "39f1f5bac2fa7a22fd33636ad4d6f1b179c61cd5"
+  },
+  "_source": "https://github.com/unicode-cldr/cldr-numbers-modern.git",
+  "_target": "31.0.1",
+  "_originalSource": "cldr-numbers-modern"
+}
